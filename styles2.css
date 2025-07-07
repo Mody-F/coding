@@ -1,0 +1,120 @@
+*{
+   margin: 0;
+   padding: 0;
+    box-sizing:border-box ;
+
+}
+html{
+    --main-blue:#3a6cf4;
+
+
+}
+
+header{
+    background-color: #f0f0f0;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    z-index: 999;
+    justify-content: space-between;
+    padding: 10px 200px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    color: var(--main-blue);
+
+
+
+}
+header{
+    background-color: #f0f0f0;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    z-index: 999;
+    justify-content: space-between;
+    padding: 10px 200px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    color: var(--main-blue);
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
